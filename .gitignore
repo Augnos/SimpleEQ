@@ -1,2 +1,4 @@
-build
+**/build
 .cache
+**/lib
+**/.DS_Store
